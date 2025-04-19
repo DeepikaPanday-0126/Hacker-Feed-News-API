@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FXLJO7sUYfjxN6suhKLDqQHkaTQ9Fh2oeMjh/HGLqTI=",
+  "Source": "HackerNewsFeed",
+  "BasePath": "_content/HackerNewsFeed",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
