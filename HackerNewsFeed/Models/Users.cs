@@ -8,10 +8,10 @@ namespace HackerNewsFeed.Models
     {
 
         [Required(ErrorMessage = "Name is required.")]
-        public string id { get; set; } = string.Empty;
-        public Int64 created { get; set; }
-        public int karma { get; set; }
-        public string? about { get; set; }
-        public Int64[]? submitted { get; set; }
+        public string Id { get; set; } = string.Empty;
+        public Int64 Created { get; set; }
+        public int Karma { get; set; }
+        public string? About { get; set; }
+        public Int64[]? Submitted { get; set; }
     }
 }

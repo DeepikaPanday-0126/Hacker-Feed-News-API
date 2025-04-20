@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_HackerAPITest.Tests
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_HackerAPITest.Tests
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\obj\Debug\net9.0\HackerAPITest.Tests.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\obj\Debug\net9.0\HackerAPITest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\obj\Debug\net9.0\HackerAPITest.Tests.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\obj\Debug\net9.0\HackerAPITest.Tests.AssemblyInfo.cs
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\obj\Debug\net9.0\HackerAPITest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hacker-Feed-News-API\HackerAPITest.Tests\obj\Debug\net9.0\HackerAPITest.Tests.sourcelink.json

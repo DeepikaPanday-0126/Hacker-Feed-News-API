@@ -216,115 +216,115 @@ namespace HackerNewsFeed.Data
             modelBuilder.Entity<Users>().HasData(
                new Users
                {
-                   id = "JJ",
-                   created = DateTimeOffset.UtcNow.AddYears(-2).ToUnixTimeSeconds(),
-                   karma = 100,
-                   about = "Senior developer",
-                   submitted = [7699907, 7637962, 7596179, 7596163, 7594569]
+                   Id = "JJ",
+                   Created = DateTimeOffset.UtcNow.AddYears(-2).ToUnixTimeSeconds(),
+                   Karma = 100,
+                   About = "Senior developer",
+                   Submitted = [7699907, 7637962, 7596179, 7596163, 7594569]
                },
                new Users
                {
-                   id = "Bob",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 500,
-                   about = "Technology Developer.",
-                   submitted = [8168423, 8090946, 8090326, 7699990]
+                   Id = "Bob",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 500,
+                   About = "Technology Developer.",
+                   Submitted = [8168423, 8090946, 8090326, 7699990]
                },
                new Users
                {
-                   id = "Tom",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 234,
-                   about = "Technology Specialist.",
-                   submitted = [6225810, 6111999, 5580079, 5112008, 4907948]
+                   Id = "Tom",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 234,
+                   About = "Technology Specialist.",
+                   Submitted = [6225810, 6111999, 5580079, 5112008, 4907948]
                },
                new Users
                {
-                   id = "Jerry",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 667,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "Jerry",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 667,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "abc",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 456,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "abc",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 456,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "def",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma =789 ,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "def",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma =789 ,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "jkl",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 234,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "jkl",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 234,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "iu",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 789,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "iu",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 789,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "bvc",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma =89 ,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "bvc",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma =89 ,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "hytg",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 56,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "hytg",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 56,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "uiop",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 90,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "uiop",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 90,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "sdf",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 890,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "sdf",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 890,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "mnb",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 123,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "mnb",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 123,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                },
                new Users
                {
-                   id = "xcv",
-                   created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
-                   karma = 67,
-                   about = "Technology Analyst.",
-                   submitted = [9128264, 9127792, 9129248,]
+                   Id = "xcv",
+                   Created = DateTimeOffset.UtcNow.AddYears(-1).ToUnixTimeSeconds(),
+                   Karma = 67,
+                   About = "Technology Analyst.",
+                   Submitted = [9128264, 9127792, 9129248,]
                }
             );
         }

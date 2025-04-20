@@ -62,7 +62,7 @@ namespace HackerNewsFeed.Controllers
         {
             try { 
             var createdUser = await _userRepository.CreateUserAsync(user);
-            return CreatedAtAction(nameof(GetUser), new { id = createdUser.id }, createdUser);
+            return CreatedAtAction(nameof(GetUser), new { id = createdUser.Id }, createdUser);
             }
             catch (Exception ex)
             {
@@ -79,7 +79,7 @@ namespace HackerNewsFeed.Controllers
         public async Task<IActionResult> UpdateUser(string id, Users user)
         {
             try { 
-            if (id != user.id)
+            if (id != user.Id)
                 return BadRequest();
 
             var updatedUser = await _userRepository.UpdateUserAsync(user);
