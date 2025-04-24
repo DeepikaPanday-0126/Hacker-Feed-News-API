@@ -24,7 +24,7 @@ namespace HackerNewsFeed.Models
 
         public bool Dead { get; set; } = false;
 
-        public string? Parent { get; set; }
+        public Int64? Parent { get; set; }
 
         public int? Poll { get; set; }
 
